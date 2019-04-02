@@ -1,0 +1,120 @@
+body {
+    background-image: linear-gradient(-90deg, white, mediumorchid);    #ARKAPLAN RENGİ
+    
+	margin: auto;
+}
+.alan {
+    width: 1460px;
+    margin: auto;
+    padding-top:0px;
+	padding-right:0px;
+}
+.header h2{
+    color: black;
+    padding-top: 30px;
+    font size: 75px;
+	font style: italic;
+    float: left;
+}
+.menu {
+    float: right;
+    margin-top: 43px;
+}
+.menu ul {
+    list-style-type: none;
+}
+.menu ul li{
+    float: left;
+    padding-left: 30px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    padding: 7px 20px;
+    border-radius: 10px;
+}
+.menu ul li a:hover{
+    background-color: black;
+}
+.content img{
+    padding-top: 25px;
+	padding-right: 130px
+;
+}
+.metin {
+	padding-left:250px;
+}
+.paragraf {
+    padding-top: 50px;
+	padding-left: 50px;
+}
+
+.paragraf p {
+    width: 515px;
+    color: black;
+    float: left;
+}
+.paragraf table {
+    margin-top: 0px;
+    margin-left: 0px;
+    float: right;
+    width: 615px;
+    padding-top: 20px;
+	padding-right: 50px;
+    border-collapse: collapse;
+}
+.paragraf table th{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 6px 12px;
+}
+.paragraf table tr {
+    border-collapse: collapse;
+}
+.paragraf table td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: black;
+    text-align: center;
+}
+
+.video {
+	widht: 450px;
+
+}
+.footer {
+    height: 30px;
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+   
+	padding-top: 5px;
+}
+.hakkimizdacontent {
+    text-align: center;
+    padding-top: 200px;
+    color: chocolate;
+}
+.iletişim{
+    background: chocolate;
+    width:990px;
+    min-height:400px;
+    float:left;
+    margin-top:50px;
+    margin-bottom:100px;
+    color: white;
+}
+
+.iletişim form {
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-left: 60px;
+}
